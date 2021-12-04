@@ -1,4 +1,4 @@
-# dcode-linux
+# Dcode Linux
 A simplified Arch Linux experience designed for the user and their needs.
 
 
