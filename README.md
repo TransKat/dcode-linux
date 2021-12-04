@@ -8,4 +8,5 @@ Root or sudo access
 archiso
 
 # Building
+Make sure you have an out folder, and a workdir folder. Names must be exact!
 Run build.sh, or see the ArchWiki on how to use archiso.
