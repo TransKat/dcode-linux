@@ -7,5 +7,5 @@ A host machine running Arch Linux or a derivative
 Root or sudo access
 archiso
 
-# building
+# Building
 Run build.sh, or see the ArchWiki on how to use archiso.
